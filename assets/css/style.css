@@ -10,6 +10,20 @@ main {
 section {
     padding: 10px;
 }
-.row {
+h3 {
     text-decoration: underline;
+    font-weight: bold;
+}
+a {
+    text-decoration: none;
+}
+header {
+        display: flex;
+        justify-content:space-evenly;
+        text-align: center;
+        padding: 40px;
+        margin: 0 auto
+    }
+#perfil {
+    width: 180px;
 }
